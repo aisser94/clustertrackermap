@@ -1,0 +1,57 @@
+{
+  "version": "20261024",
+  "size": 462890669,
+  "partSize": 47185920,
+  "parts": [
+    {
+      "n": "part-000",
+      "size": 47185920,
+      "sha256": "5439518e7e9cff77ceff8cda7fb9a5a865f63990cf6e70ea21f987d44a1f4985"
+    },
+    {
+      "n": "part-001",
+      "size": 47185920,
+      "sha256": "1ca30b484c0df81aeef2858daf59ccb92b6d71be760f8cb85f9a6713884ae0f0"
+    },
+    {
+      "n": "part-002",
+      "size": 47185920,
+      "sha256": "cbdd01e6f263bb02c9e92dc4ce9c2b9c562004b34ee8c16541bf7fae9fd8155e"
+    },
+    {
+      "n": "part-003",
+      "size": 47185920,
+      "sha256": "dd739f3c260e315d2a2d32baba06730f2334265c0bd44f971c0bbcf2ee204249"
+    },
+    {
+      "n": "part-004",
+      "size": 47185920,
+      "sha256": "1281b21875b98938280b3430c64a8c7c7eb122025141b40eb37599723463cffd"
+    },
+    {
+      "n": "part-005",
+      "size": 47185920,
+      "sha256": "8f004f743a3bb659d3a9fd50ee971d025f491d71d090f3b2b84dd815a2eb2cb7"
+    },
+    {
+      "n": "part-006",
+      "size": 47185920,
+      "sha256": "2d4ab307c5e644de53d375ada163739ec9348131ff42086edcd3a0d71d255608"
+    },
+    {
+      "n": "part-007",
+      "size": 47185920,
+      "sha256": "83e50768b643fd7451e3d6dc2a25c44a041f22cfa176f40790f42790666b0bc9"
+    },
+    {
+      "n": "part-008",
+      "size": 47185920,
+      "sha256": "1b55bdefbacb2b7f79cfff37f151cb7397c1c3188de7c69cadc0485fc8f89107"
+    },
+    {
+      "n": "part-009",
+      "size": 38217389,
+      "sha256": "325c5cf69973959b829fb9a42f57439a2b7f2bba06f7a3bf811ffd9bc09495c0"
+    }
+  ]
+}
